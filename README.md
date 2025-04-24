@@ -36,13 +36,20 @@ Contém a estrutura para centralizar e padronizar o tratamento de exceções do 
 - 
 ----------------------------------------------------------------------------------------------------------------
 
-📌 Tecnologias Utilizadas
+🧰 Tecnologias Utilizadas
 ASP.NET Core
+
 C#
+
 Entity Framework Core
+
 SQLite (banco de dados leve, baseado em arquivo .db)
+
 RESTful APIs
-Clean Architecture (estrutura modular por responsabilidade)
+
+Clean Architecture
+
+
 
 ✨ Objetivo
 O projeto visa demonstrar uma arquitetura modular, com separação de camadas e princípios de Clean Code aplicados, ideal para sistemas escaláveis e com manutenibilidade a longo prazo.
