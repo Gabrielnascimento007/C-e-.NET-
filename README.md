@@ -40,6 +40,7 @@ Contém a estrutura para centralizar e padronizar o tratamento de exceções do 
 ASP.NET Core
 C#
 Entity Framework Core
+SQLite (banco de dados leve, baseado em arquivo .db)
 RESTful APIs
 Clean Architecture (estrutura modular por responsabilidade)
 
